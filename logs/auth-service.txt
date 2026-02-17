@@ -41,3 +41,4 @@
 19:27:10 | os_version=9943
 19:27:14 | cipher=cd34483d17a6eca5f9e4ab3a24702b0e59c450d3bedc9884be8cff73668f8794
 20:27:08 | depth=451493
+20:27:10 | os_version=5245
