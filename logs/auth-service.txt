@@ -17,3 +17,4 @@
 11:27:12 | os_version=3562
 11:27:13 | cipher=aa050e2c3769c4c967f22a132bd0ecec3f1aa2bedaaa383d2762d3840aee52b9
 12:27:09 | depth=369009
+12:27:10 | os_version=9650
